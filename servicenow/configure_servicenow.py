@@ -11,8 +11,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-user = 'pankajj@hexaware.com'
-pwd = 'Pankaj@123'
+user = ''
+pwd = ''
 headers = {"Content-Type":"application/json","Accept":"application/json"}
 
 embedding_function = AzureOpenAIEmbeddings(model="Text-embedding")
