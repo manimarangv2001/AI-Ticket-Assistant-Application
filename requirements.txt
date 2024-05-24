@@ -1,0 +1,6 @@
+botbuilder-integration-aiohttp>=4.14.0
+langchain
+openai
+langchain-openai
+requests
+langchain-chroma
